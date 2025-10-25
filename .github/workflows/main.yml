@@ -1,6 +1,4 @@
-services:
-  windows:
-    image: dockurr/windows
+image: dockurr/windows
     container_name: windows
     environment:
       VERSION: "10l"
